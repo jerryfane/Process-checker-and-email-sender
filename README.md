@@ -1,1 +1,1 @@
-# Process-checker-and-email-sender
+# Process-checker-and-email-sender using Mailgun
